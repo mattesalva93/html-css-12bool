@@ -18,6 +18,12 @@
     flex: 0 0 auto;
 }
 
+.space-around{
+    justify-content: space-around;
+}
+.space-between{
+    justify-content: space-between;
+}
 /* Sezione colonne */
 
 .col-xs-1{

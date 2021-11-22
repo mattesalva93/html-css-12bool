@@ -4,7 +4,7 @@
     text-align: center;
     border: 1px white solid;
     color: white;
-    padding: 12px;
+    padding: 12.5px;
 }
 
 .row .row > div{
@@ -12,4 +12,14 @@
     border:1px solid rgb(0,108,250);
     height: 25px;
     padding: 3px;
+}
+
+.double{
+    height: 100px;
+}
+.middle{
+    margin-top: 25px;
+}
+.bottom{
+    margin-top: 50px;
 }
