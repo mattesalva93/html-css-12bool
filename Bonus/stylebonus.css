@@ -1,0 +1,21 @@
+[class*="col-"] {
+    height: 100px;
+}
+
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.black{
+    background-color: black;
+}
+.red{
+    background-color: rgb(238,34,34);
+}
+.red-shadow{
+    background-color: rgb(102,17,17);
+}
+.grey{
+    background-color: rgb(170, 170, 170);
+}
