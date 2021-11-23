@@ -1,6 +1,6 @@
 [class*="col-"] {
     background-color: rgb(0,108,250);
-    height: 50px;
+    min-height: 50px;
     text-align: center;
     border: 1px white solid;
     color: white;
@@ -10,16 +10,4 @@
 .row .row > div{
     background-color: rgb(0,225,101);
     border:1px solid rgb(0,108,250);
-    height: 25px;
-    padding: 3px;
-}
-
-.double{
-    height: 100px;
-}
-.middle{
-    margin-top: 25px;
-}
-.bottom{
-    margin-top: 50px;
 }

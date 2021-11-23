@@ -18,6 +18,19 @@
     flex: 0 0 auto;
 }
 
+.double{
+    min-height: 100px;
+}
+.top{
+    align-items: flex-start;
+}
+.middle{
+    align-items: center;
+}
+.bottom{
+    align-items: flex-end;
+}
+
 .space-around{
     justify-content: space-around;
 }
